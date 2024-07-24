@@ -1,0 +1,116 @@
+name,course_id,user_id,job_id,rating
+Adrian,AB Economics,1,2936,4
+Adrian,AB Economics,1,2940,3
+Adrian,AB Economics,1,2974,3
+Adrian,AB Economics,1,2728,3
+Adrian,AB Economics,1,835,3
+Kate,Applied Economics,2,393,2
+Kate,Applied Economics,2,2728,4
+Kate,Applied Economics,2,3228,3
+Kate,Applied Economics,2,1092,2
+Kate,Applied Economics,2,3107,4
+Michael,Applied Economics,3,1188,5
+Michael,Applied Economics,3,1237,4
+Michael,Applied Economics,3,1282,3
+Michael,Applied Economics,3,1750,5
+Michael,Applied Economics,3,2088,2
+Kyla,Applied Economics,4,1293,4
+Kyla,Applied Economics,4,3738,4
+Kyla,Applied Economics,4,3771,3
+Kyla,Applied Economics,4,4339,3
+Kyla,Applied Economics,4,4400,2
+Cara,Applied Economics,5,1176,5
+Cara,Applied Economics,5,2934,4
+Cara,Applied Economics,5,3017,4
+Cara,Applied Economics,5,2728,3
+Cara,Applied Economics,5,2936,4
+Camille,Psychology ,6,658,2
+Camille,Psychology ,6,1345,5
+Camille,Psychology ,6,324,3
+Camille,Psychology ,6,2127,4
+Camille,Psychology ,6,1491,2
+Jboy,Applied Economics,7,2562,5
+Jboy,Applied Economics,7,2922,5
+Jboy,Applied Economics,7,2942,3
+Jboy,Applied Economics,7,3261,4
+Jboy,Applied Economics,7,3469,4
+Ian,Information Technology,8,934,3
+Ian,Information Technology,8,2324,4
+Ian,Information Technology,8,1236,4
+Ian,Information Technology,8,1503,5
+Ian,Information Technology,8,301,5
+Ella,Applied Economics,9,3107,4
+Ella,Applied Economics,9,3096,5
+Ella,Applied Economics,9,3285,3
+Ella,Applied Economics,9,3103,2
+Ella,Applied Economics,9,2419,4
+Rona,Applied Economics,10,74,5
+Rona,Applied Economics,10,2859,3
+Rona,Applied Economics,10,2419,5
+Rona,Applied Economics,10,3272,3
+Rona,Applied Economics,10,4399,4
+Ceril ,Legal Management,11,1364,4
+Ceril ,Legal Management,11,2706,5
+Ceril ,Legal Management,11,2765,4
+Ceril ,Legal Management,11,3107,2
+Ceril ,Legal Management,11,3460,1
+Aisha,Legal Management,12,3314,4
+Aisha,Legal Management,12,4457,5
+Aisha,Legal Management,12,4400,4
+Aisha,Legal Management,12,393,3
+Aisha,Legal Management,12,3205,1
+Andre,Legal Management,13,2095,4
+Andre,Legal Management,13,71,2
+Andre,Legal Management,13,274,3
+Andre,Legal Management,13,938,3
+Andre,Legal Management,13,2046,4
+Stephanie ,Biomed,14,4558,5
+Stephanie ,Biomed,14,4606,3
+Stephanie ,Biomed,14,2050,4
+Stephanie ,Biomed,14,1662,5
+Stephanie ,Biomed,14,1574,5
+Carlos,Business Economics,15,2940,4
+Carlos,Business Economics,15,3478,5
+Carlos,Business Economics,15,2441,5
+Carlos,Business Economics,15,2776,3
+Carlos,Business Economics,15,2885,3
+Arianna,AB Economics,16,2226,5
+Arianna,AB Economics,16,2228,4
+Arianna,AB Economics,16,2284,2
+Arianna,AB Economics,16,3362,2
+Arianna,AB Economics,16,2974,3
+Brianna ,AB Economics,17,3374,4
+Brianna ,AB Economics,17,2940,3
+Brianna ,AB Economics,17,3833,2
+Brianna ,AB Economics,17,2706,5
+Brianna ,AB Economics,17,2933,5
+Cyryll,AB Economics,18,2934,3
+Cyryll,AB Economics,18,2706,5
+Cyryll,AB Economics,18,3228,3
+Cyryll,AB Economics,18,1933,2
+Cyryll,AB Economics,18,2933,5
+Matthew,AB Economics,19,2226,3
+Matthew,AB Economics,19,3228,2
+Matthew,AB Economics,19,3278,3
+Matthew,AB Economics,19,4358,4
+Matthew,AB Economics,19,3233,3
+Elisha,Applied Economics - Management,20,71,4
+Elisha,Applied Economics - Management,20,806,5
+Elisha,Applied Economics - Management,20,2942,3
+Elisha,Applied Economics - Management,20,116,5
+Elisha,Applied Economics - Management,20,755,2
+Johann,BS Biology,21,1472,4
+Johann,BS Biology,21,1763,3
+Johann,BS Biology,21,1919,2
+Johann,BS Biology,21,1932,3
+Johann,BS Biology,21,1950,4
+Mark,BS in Manufacturing Engineering and Management,22,2940,4
+Mark,BS in Manufacturing Engineering and Management,22,3049,3
+Mark,BS in Manufacturing Engineering and Management,22,3178,2
+Mark,BS in Manufacturing Engineering and Management,22,3227,4
+Mark,BS in Manufacturing Engineering and Management,22,781,4
+Celina,BS Biology,23,1152,3
+Celina,BS Biology,23,2120,4
+Celina,BS Biology,23,2662,3
+Celina,BS Biology,23,1515,2
+Celina,BS Biology,23,2185,5
