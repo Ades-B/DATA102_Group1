@@ -1,0 +1,53 @@
+job_id,Job Title,Job Link,similarity,user_id,evaluation_rating
+4358,INSURANCE REPRESENTATIVE,https://philjobnet.gov.ph/job-vacancies/job/insurance-representative-1041645,0.325493,1,2
+2707,BOARD SECRETARY I (GOV),https://philjobnet.gov.ph/job-vacancies/job/board-secretary-i-gov-1045356,0.53512,2,2
+1236,ORACLE PROGRAMMER,https://philjobnet.gov.ph/job-vacancies/job/oracle-programmer-1049514,0.3997,3,4
+2400,EXPORT/IMPORT COORDINATOR,https://philjobnet.gov.ph/job-vacancies/job/export-import-coordinator-1046075,0.546869,4,4
+3481,SALES SUPERVISOR,https://philjobnet.gov.ph/job-vacancies/job/sales-supervisor-1043883,0.277778,5,3
+3055,ADMINISTRATIVE ASSISTANT,https://philjobnet.gov.ph/job-vacancies/job/administrative-assistant-1044724,0.420346,6,2
+2260,CADET ENGINEER (ELECTRONICS AND COMMUNICATIONS),https://philjobnet.gov.ph/job-vacancies/job/cadet-engineer-electronics-and-communications-1046447,0.646762,7,1
+2140,INFORMATION TECHNOLOGY (IT) SPECIALIST,https://philjobnet.gov.ph/job-vacancies/job/information-technology-it-specialist-1046852,0.548437,8,5
+2776,DATA ANALYST,https://philjobnet.gov.ph/job-vacancies/job/data-analyst-1045283,0.599737,9,3
+1811,SALES MANAGER,https://philjobnet.gov.ph/job-vacancies/job/sales-manager-1047534,0.636804,10,4
+3915,PUBLIC SERVICES OFFICER II (GOV),https://philjobnet.gov.ph/job-vacancies/job/public-services-officer-ii-gov-1042808,0.511412,11,3
+2041,SPEECH THERAPIST (GOV),https://philjobnet.gov.ph/job-vacancies/job/speech-therapist-gov-1047011,0.277683,12,5
+4461,DERMATOLOGICAL WARD NURSE,https://philjobnet.gov.ph/job-vacancies/job/dermatological-ward-nurse-1041351,0.301821,13,2
+114,STAFF NURSE,https://philjobnet.gov.ph/job-vacancies/job/staff-nurse-1055977,0.263238,14,3
+2025,MEDICAL LABORATORY TECHNICIAN (GOV),https://philjobnet.gov.ph/job-vacancies/job/medical-laboratory-technician-gov-1047027,0.300965,15,1
+532,LOANS ASSISTANT,https://philjobnet.gov.ph/job-vacancies/job/loans-assistant-1053335,0.363803,16,2
+486,OPERATIONS OFFICER,https://philjobnet.gov.ph/job-vacancies/job/operations-officer-1053471,0.535441,17,3
+3867,PUBLIC SERVICES OFFICER III (GOV),https://philjobnet.gov.ph/job-vacancies/job/public-services-officer-iii-gov-1042892,0.682605,18,4
+2645,PURCHASING CLERK,https://philjobnet.gov.ph/job-vacancies/job/purchasing-clerk-1045499,0.423957,19,3
+4270,SALES COORDINATOR,https://philjobnet.gov.ph/job-vacancies/job/sales-coordinator-1041859,0.517999,20,5
+1455,MEDICAL REPRESENTATIVE,https://philjobnet.gov.ph/job-vacancies/job/medical-representative-1048945,0.381723,21,5
+934,SYSTEMS ANALYST,https://philjobnet.gov.ph/job-vacancies/job/systems-analyst-1052197,0.178017,22,4
+2192,SECRETARY,https://philjobnet.gov.ph/job-vacancies/job/secretary-1046616,0.460526,23,2
+2839,AUDIT ANALYST,https://philjobnet.gov.ph/job-vacancies/job/audit-analyst-1045130,0.506791,24,5
+1659,ACCOUNTING CLERK,https://philjobnet.gov.ph/job-vacancies/job/accounting-clerk-1048010,0.272458,25,1
+4407,SALES OFFICER,https://philjobnet.gov.ph/job-vacancies/job/sales-officer-1041505,0.390935,26,2
+3698,PAYROLL CLERK,https://philjobnet.gov.ph/job-vacancies/job/payroll-clerk-1043333,0.444807,27,1
+3781,TAX OFFICER,https://philjobnet.gov.ph/job-vacancies/job/tax-officer-1043133,0.191602,28,1
+472,SALES MANAGER,https://philjobnet.gov.ph/job-vacancies/job/sales-manager-1053589,0.424429,29,2
+197,DATA ENCODER,https://philjobnet.gov.ph/job-vacancies/job/data-encoder-1055474,0.385518,30,3
+2859,DATA ANALYST,https://philjobnet.gov.ph/job-vacancies/job/data-analyst-1045018,0.428746,31,2
+2868,ADMINISTRATIVE ASSISTANT,https://philjobnet.gov.ph/job-vacancies/job/administrative-assistant-1045007,0.327111,32,2
+2093,FINANCE ASSOCIATE PROFESSIONAL,https://philjobnet.gov.ph/job-vacancies/job/finance-associate-professional-1046959,0.444961,33,2
+4067,RETAIL/WHOLESALE ESTABLISHMENT SALESPERSON,https://philjobnet.gov.ph/job-vacancies/job/retail-wholesale-establishment-salesperson-1042487,0.468165,34,3
+823,INFORMATION TECHNOLOGY (IT) SPECIALIST,https://philjobnet.gov.ph/job-vacancies/job/information-technology-it-specialist-1052674,0.273565,35,2
+1424,ENGINEERING AIDE,https://philjobnet.gov.ph/job-vacancies/job/engineering-aide-1048987,0.354941,36,1
+3720,ACCOUNTING CLERK,https://philjobnet.gov.ph/job-vacancies/job/accounting-clerk-1043272,0.405554,37,2
+3364,MARKETING OFFICER,https://philjobnet.gov.ph/job-vacancies/job/marketing-officer-1044153,0.38442,38,2
+722,ACCOUNTANT (GENERAL),https://philjobnet.gov.ph/job-vacancies/job/accountant-general-1052924,0.50155,39,2
+1673,PROCUREMENT ASSISTANT,https://philjobnet.gov.ph/job-vacancies/job/procurement-assistant-1047989,0.664211,40,2
+828,CLINIC NURSE,https://philjobnet.gov.ph/job-vacancies/job/clinic-nurse-1052591,0.455587,41,4
+1279,TECHNICAL SUPPORT STAFF,https://philjobnet.gov.ph/job-vacancies/job/technical-support-staff-1049458,0.565293,42,2
+1265,ACCOUNTING STAFF,https://philjobnet.gov.ph/job-vacancies/job/accounting-staff-1049472,0.313625,43,1
+4461,DERMATOLOGICAL WARD NURSE,https://philjobnet.gov.ph/job-vacancies/job/dermatological-ward-nurse-1041351,0.173785,44,3
+323,TIMEKEEPER,https://philjobnet.gov.ph/job-vacancies/job/timekeeper-1054649,0.424571,45,1
+725,ADMINISTRATIVE ASSISTANT,https://philjobnet.gov.ph/job-vacancies/job/administrative-assistant-1052919,0.492308,46,1
+1087,AREA OPERATIONS MANAGER,https://philjobnet.gov.ph/job-vacancies/job/area-operations-manager-1050389,0.398015,47,3
+907,COST ACCOUNTING SUPERVISOR,https://philjobnet.gov.ph/job-vacancies/job/cost-accounting-supervisor-1052316,0.666667,48,3
+814,SENIOR ACCOUNTANT,https://philjobnet.gov.ph/job-vacancies/job/senior-accountant-1052692,0.349778,49,5
+819,PASTRY CHEF,https://philjobnet.gov.ph/job-vacancies/job/pastry-chef-1052679,0.348155,50,3
+,,,,,2.66
+,,,,,2
